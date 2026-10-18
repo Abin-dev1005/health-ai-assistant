@@ -1,0 +1,10 @@
+# Python & Environment
+venv/
+__pycache__/
+*.pyc
+
+# Vector Database Local Data
+data/vectorstore/
+
+# OS Files
+.DS_Store
